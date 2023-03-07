@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 import { Command } from 'commander'; //进行命令行的操作
 import inquirer from 'inquirer' //命令行交互插件 使用require的话 请进行安装8.0的版本 之后的版本不支持esm的模块
 import version from './config/version.js'
