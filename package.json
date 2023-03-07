@@ -1,6 +1,6 @@
 {
   "name": "hexo-butterfly-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "一键生成配置模板",
   "type": "module",
   "main": "index.mjs",
