@@ -5,7 +5,7 @@
 ## 安装
 
 ```shell
-npm install butterfly-cli -g
+npm install hexo-butterfly-cli -g
 ```
 
 ## 使用
