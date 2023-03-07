@@ -1,0 +1,25 @@
+{
+  "name": "hexo-butterfly-cli",
+  "version": "1.0.0",
+  "description": "一键生成配置模板",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "constown",
+  "license": "ISC",
+  "bin": {
+    "butterfly-cli": "index.mjs"
+  },
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.5",
+    "log-symbols": "^5.1.0",
+    "ora": "^6.1.2",
+    "yamljs": "^0.3.0"
+  }
+}
